@@ -1,0 +1,13 @@
+E:\Repo\ItSense\LoadS3\LoadS3\LoadS3\obj\Release\net5.0\PubTmp\Out\LoadS3.exe
+E:\Repo\ItSense\LoadS3\LoadS3\LoadS3\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+E:\Repo\ItSense\LoadS3\LoadS3\LoadS3\obj\Release\net5.0\PubTmp\Out\appsettings.json
+E:\Repo\ItSense\LoadS3\LoadS3\LoadS3\obj\Release\net5.0\PubTmp\Out\LoadS3.dll
+E:\Repo\ItSense\LoadS3\LoadS3\LoadS3\obj\Release\net5.0\PubTmp\Out\LoadS3.deps.json
+E:\Repo\ItSense\LoadS3\LoadS3\LoadS3\obj\Release\net5.0\PubTmp\Out\LoadS3.runtimeconfig.json
+E:\Repo\ItSense\LoadS3\LoadS3\LoadS3\obj\Release\net5.0\PubTmp\Out\LoadS3.pdb
+E:\Repo\ItSense\LoadS3\LoadS3\LoadS3\obj\Release\net5.0\PubTmp\Out\AWSSDK.Core.dll
+E:\Repo\ItSense\LoadS3\LoadS3\LoadS3\obj\Release\net5.0\PubTmp\Out\AWSSDK.S3.dll
+E:\Repo\ItSense\LoadS3\LoadS3\LoadS3\obj\Release\net5.0\PubTmp\Out\Microsoft.OpenApi.dll
+E:\Repo\ItSense\LoadS3\LoadS3\LoadS3\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+E:\Repo\ItSense\LoadS3\LoadS3\LoadS3\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Repo\ItSense\LoadS3\LoadS3\LoadS3\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
